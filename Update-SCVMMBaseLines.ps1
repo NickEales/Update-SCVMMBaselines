@@ -1,6 +1,6 @@
 ﻿<# 
 .Synopsis 
-   Script to automatically keep SCVMM Baselines in sync with WSUS  
+   Sample script to automatically keep SCVMM Baselines in sync with WSUS  
 .DESCRIPTION 
    Script that synchronizes WSUS Updates with SCVMM, both adding new updates and removes old inactive updates.  
 .EXAMPLE 
